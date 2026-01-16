@@ -12,7 +12,7 @@ My Profile
 ——————————
 Name: Xeon
 Occupation: High School Student
-Gender: Male.
+Gender: Male
 Location: Colombo, Sri Lanka
 Languages: Bash, Python, Go
 Learning: Computer Science
