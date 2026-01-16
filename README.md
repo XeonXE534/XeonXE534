@@ -41,7 +41,7 @@ Telegram: @XeonXE1
 
 <div>
   <h2 align="center">Thank you for reading :3</h2>
-  <div style="text-align:center;">
+  <div style="center;">
     <img src="assests/bg.gif" style="max-width:100%; height:auto;" />
   </div>
 </div>  
