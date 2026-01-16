@@ -41,14 +41,13 @@ Telegram: @XeonXE1
 
 <div>
   <h2 align="center">Thank you for reading :3</h2>
-  <div>
-    <img src="assests/bg.gif" align="center" />
+  <div style="text-align:center;">
+    <img src="assests/bg.gif" style="max-width:100%; height:auto;" />
   </div>
 </div>  
 
 <div>
 <h2 align="center">View counter</h2>
-  <div style="text-align:center;">
-    <img src="assests/bg.gif" style="max-width:100%; height:auto;" />
-  </div>
+<div align="center">
+  <img src="https://count.getloli.com/@XeonXE1?name=XeonXE1&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
 </div>
